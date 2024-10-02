@@ -4,3 +4,6 @@ I am setting up station #1
 *station #1 building in progress*
 
 station #1 has been built
+
+The code for station #1 is 7452
+
